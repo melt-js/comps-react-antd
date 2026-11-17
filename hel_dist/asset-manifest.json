@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/comps-react-antd/hel_dist/static/js/main.a35663d0.js",
+    "runtime.js": "/comps-react-antd/hel_dist/static/js/runtime.c269269e.js",
+    "static/js/492.06c37d09.chunk.js": "/comps-react-antd/hel_dist/static/js/492.06c37d09.chunk.js",
+    "static/js/316.70d8b183.chunk.js": "/comps-react-antd/hel_dist/static/js/316.70d8b183.chunk.js",
+    "vendor.js": "/comps-react-antd/hel_dist/static/js/vendor.3d387f61.js",
+    "index.html": "/comps-react-antd/hel_dist/index.html"
+  },
+  "entrypoints": [
+    "static/js/runtime.c269269e.js",
+    "static/js/vendor.3d387f61.js",
+    "static/js/main.a35663d0.js"
+  ]
+}
