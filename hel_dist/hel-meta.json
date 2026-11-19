@@ -18,11 +18,11 @@
       "iframeSrc": "",
       "chunkCssSrcList": [],
       "chunkJsSrcList": [
-        "/comps-react-antd/hel_dist/static/js/runtime.c269269e.js",
-        "/comps-react-antd/hel_dist/static/js/vendor.3d387f61.js",
-        "/comps-react-antd/hel_dist/static/js/main.a35663d0.js",
-        "/comps-react-antd/hel_dist/static/js/316.70d8b183.chunk.js",
-        "/comps-react-antd/hel_dist/static/js/492.06c37d09.chunk.js"
+        "/comps-react-antd/hel_dist/static/js/runtime.329fe541.js",
+        "/comps-react-antd/hel_dist/static/js/vendor.ed760464.js",
+        "/comps-react-antd/hel_dist/static/js/main.e3194324.js",
+        "/comps-react-antd/hel_dist/static/js/769.07da4d68.chunk.js",
+        "/comps-react-antd/hel_dist/static/js/85.8de6515d.chunk.js"
       ],
       "staticCssSrcList": [],
       "staticJsSrcList": [
@@ -82,7 +82,7 @@
           "tag": "script",
           "append": true,
           "attrs": {
-            "src": "/comps-react-antd/hel_dist/static/js/runtime.c269269e.js",
+            "src": "/comps-react-antd/hel_dist/static/js/runtime.329fe541.js",
             "defer": "defer"
           }
         },
@@ -90,7 +90,7 @@
           "tag": "script",
           "append": true,
           "attrs": {
-            "src": "/comps-react-antd/hel_dist/static/js/vendor.3d387f61.js",
+            "src": "/comps-react-antd/hel_dist/static/js/vendor.ed760464.js",
             "defer": "defer"
           }
         },
@@ -98,7 +98,7 @@
           "tag": "script",
           "append": true,
           "attrs": {
-            "src": "/comps-react-antd/hel_dist/static/js/main.a35663d0.js",
+            "src": "/comps-react-antd/hel_dist/static/js/main.e3194324.js",
             "defer": "defer"
           }
         }
@@ -110,9 +110,9 @@
         "/comps-react-antd/hel_dist/index.html",
         "/comps-react-antd/hel_dist/manifest.json",
         "/comps-react-antd/hel_dist/robots.txt",
-        "/comps-react-antd/hel_dist/static/js/vendor.3d387f61.js.gz"
+        "/comps-react-antd/hel_dist/static/js/vendor.ed760464.js.gz"
       ]
     },
-    "html_content": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><link rel=\"icon\" href=\"/comps-react-antd/hel_dist/favicon.ico\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"description\" content=\"Create Remote React Comp With hel-micro\"/><link rel=\"manifest\" href=\"/comps-react-antd/hel_dist/manifest.json\"/><title>Remote React Comp</title><script data-helappend=\"0\" src=\"https://unpkg.com/react@18.3.1/umd/react.production.min.js\"></script><script data-helappend=\"0\" src=\"https://unpkg.com/react-dom@18.3.1/umd/react-dom.production.min.js\"></script><script data-helappend=\"0\" src=\"https://unpkg.com/dayjs@1.11.23/dayjs.min.js\"></script><script data-helappend=\"0\" src=\"https://unpkg.com/antd@6.7.0/dist/antd.min.js\"></script><script defer=\"defer\" src=\"/comps-react-antd/hel_dist/static/js/runtime.c269269e.js\"></script><script defer=\"defer\" src=\"/comps-react-antd/hel_dist/static/js/vendor.3d387f61.js\"></script><script defer=\"defer\" src=\"/comps-react-antd/hel_dist/static/js/main.a35663d0.js\"></script></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id=\"root\"></div></body></html>"
+    "html_content": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><link rel=\"icon\" href=\"/comps-react-antd/hel_dist/favicon.ico\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"description\" content=\"Create Remote React Comp With hel-micro\"/><link rel=\"manifest\" href=\"/comps-react-antd/hel_dist/manifest.json\"/><title>Remote React Comp</title><script data-helappend=\"0\" src=\"https://unpkg.com/react@18.3.1/umd/react.production.min.js\"></script><script data-helappend=\"0\" src=\"https://unpkg.com/react-dom@18.3.1/umd/react-dom.production.min.js\"></script><script data-helappend=\"0\" src=\"https://unpkg.com/dayjs@1.11.23/dayjs.min.js\"></script><script data-helappend=\"0\" src=\"https://unpkg.com/antd@6.7.0/dist/antd.min.js\"></script><script defer=\"defer\" src=\"/comps-react-antd/hel_dist/static/js/runtime.329fe541.js\"></script><script defer=\"defer\" src=\"/comps-react-antd/hel_dist/static/js/vendor.ed760464.js\"></script><script defer=\"defer\" src=\"/comps-react-antd/hel_dist/static/js/main.e3194324.js\"></script></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id=\"root\"></div></body></html>"
   }
 }
