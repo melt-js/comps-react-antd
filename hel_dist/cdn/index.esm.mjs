@@ -1,16 +1,1 @@
-import { exposeLib } from 'hel-lib-proxy';
-
-/*
-|--------------------------------------------------------------------------
-|
-| 对应 package.json/name
-|
-|--------------------------------------------------------------------------
-*/
-var LIB_NAME = 'comps-react-antd';
-
-var lib = exposeLib(LIB_NAME);
-var comps = lib;
-var TestExport = lib.TestExport;
-
-export { TestExport, comps, lib as default, lib };
+import{exposeLib as t}from"hel-lib-proxy";var a="comps-react-antd",r=t(a),o=r,e=r.TestExport;export{e as TestExport,o as comps,r as default,r as lib};

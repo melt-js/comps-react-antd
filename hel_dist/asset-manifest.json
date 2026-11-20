@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/comps-react-antd/hel_dist/static/js/main.e3194324.js",
-    "runtime.js": "/comps-react-antd/hel_dist/static/js/runtime.329fe541.js",
-    "static/js/85.8de6515d.chunk.js": "/comps-react-antd/hel_dist/static/js/85.8de6515d.chunk.js",
-    "static/js/769.07da4d68.chunk.js": "/comps-react-antd/hel_dist/static/js/769.07da4d68.chunk.js",
-    "vendor.js": "/comps-react-antd/hel_dist/static/js/vendor.ed760464.js",
+    "main.js": "/comps-react-antd/hel_dist/static/js/main.6a5c14fe.js",
+    "runtime.js": "/comps-react-antd/hel_dist/static/js/runtime.d1cbd731.js",
+    "static/js/85.04f118e6.chunk.js": "/comps-react-antd/hel_dist/static/js/85.04f118e6.chunk.js",
+    "static/js/769.8c2f816d.chunk.js": "/comps-react-antd/hel_dist/static/js/769.8c2f816d.chunk.js",
+    "vendor.js": "/comps-react-antd/hel_dist/static/js/vendor.f1a4be8b.js",
     "index.html": "/comps-react-antd/hel_dist/index.html"
   },
   "entrypoints": [
-    "static/js/runtime.329fe541.js",
-    "static/js/vendor.ed760464.js",
-    "static/js/main.e3194324.js"
+    "static/js/runtime.d1cbd731.js",
+    "static/js/vendor.f1a4be8b.js",
+    "static/js/main.6a5c14fe.js"
   ]
 }
