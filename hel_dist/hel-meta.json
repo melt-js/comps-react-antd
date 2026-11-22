@@ -3,14 +3,14 @@
     "name": "comps-react-antd",
     "app_group_name": "comps-react-antd",
     "git_repo_url": "",
-    "online_version": "2026.11.16-1",
-    "build_version": "2026.11.16-1"
+    "online_version": "2026.11.22",
+    "build_version": "2026.11.22"
   },
   "version": {
     "plugin_ver": "4.3.20",
     "extract_mode": "build",
     "sub_app_name": "comps-react-antd",
-    "sub_app_version": "2026.11.16-1",
+    "sub_app_version": "2026.11.22",
     "src_map": {
       "webDirPath": "/comps-react-antd/hel_dist",
       "htmlIndexSrc": "/comps-react-antd/hel_dist/index.html",
@@ -18,11 +18,11 @@
       "iframeSrc": "",
       "chunkCssSrcList": [],
       "chunkJsSrcList": [
-        "/comps-react-antd/hel_dist/static/js/runtime.2d33e3ae.js",
-        "/comps-react-antd/hel_dist/static/js/vendor.f639188b.js",
-        "/comps-react-antd/hel_dist/static/js/main.c94b9fe2.js",
-        "/comps-react-antd/hel_dist/static/js/769.3396157a.chunk.js",
-        "/comps-react-antd/hel_dist/static/js/85.02698574.chunk.js"
+        "/comps-react-antd/hel_dist/static/js/runtime.32226aaf.js",
+        "/comps-react-antd/hel_dist/static/js/vendor.e3dd5ba1.js",
+        "/comps-react-antd/hel_dist/static/js/main.edc40de5.js",
+        "/comps-react-antd/hel_dist/static/js/769.4535f6b1.chunk.js",
+        "/comps-react-antd/hel_dist/static/js/85.ffc82494.chunk.js"
       ],
       "staticCssSrcList": [],
       "staticJsSrcList": [
@@ -82,7 +82,7 @@
           "tag": "script",
           "append": true,
           "attrs": {
-            "src": "/comps-react-antd/hel_dist/static/js/runtime.2d33e3ae.js",
+            "src": "/comps-react-antd/hel_dist/static/js/runtime.32226aaf.js",
             "defer": "defer"
           }
         },
@@ -90,7 +90,7 @@
           "tag": "script",
           "append": true,
           "attrs": {
-            "src": "/comps-react-antd/hel_dist/static/js/vendor.f639188b.js",
+            "src": "/comps-react-antd/hel_dist/static/js/vendor.e3dd5ba1.js",
             "defer": "defer"
           }
         },
@@ -98,7 +98,7 @@
           "tag": "script",
           "append": true,
           "attrs": {
-            "src": "/comps-react-antd/hel_dist/static/js/main.c94b9fe2.js",
+            "src": "/comps-react-antd/hel_dist/static/js/main.edc40de5.js",
             "defer": "defer"
           }
         }
@@ -110,9 +110,9 @@
         "/comps-react-antd/hel_dist/index.html",
         "/comps-react-antd/hel_dist/manifest.json",
         "/comps-react-antd/hel_dist/robots.txt",
-        "/comps-react-antd/hel_dist/static/js/vendor.f639188b.js.gz"
+        "/comps-react-antd/hel_dist/static/js/vendor.e3dd5ba1.js.gz"
       ]
     },
-    "html_content": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><link rel=\"icon\" href=\"/comps-react-antd/hel_dist/favicon.ico\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"description\" content=\"Create Remote React Comp With hel-micro\"/><link rel=\"manifest\" href=\"/comps-react-antd/hel_dist/manifest.json\"/><title>Remote React Comp</title><script data-helappend=\"0\" src=\"https://unpkg.com/react@18.3.1/umd/react.production.min.js\"></script><script data-helappend=\"0\" src=\"https://unpkg.com/react-dom@18.3.1/umd/react-dom.production.min.js\"></script><script data-helappend=\"0\" src=\"https://unpkg.com/dayjs@1.11.23/dayjs.min.js\"></script><script data-helappend=\"0\" src=\"https://unpkg.com/antd@6.7.0/dist/antd.min.js\"></script><script defer=\"defer\" src=\"/comps-react-antd/hel_dist/static/js/runtime.2d33e3ae.js\"></script><script defer=\"defer\" src=\"/comps-react-antd/hel_dist/static/js/vendor.f639188b.js\"></script><script defer=\"defer\" src=\"/comps-react-antd/hel_dist/static/js/main.c94b9fe2.js\"></script></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id=\"root\"></div></body></html>"
+    "html_content": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><link rel=\"icon\" href=\"/comps-react-antd/hel_dist/favicon.ico\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"description\" content=\"Create Remote React Comp With hel-micro\"/><link rel=\"manifest\" href=\"/comps-react-antd/hel_dist/manifest.json\"/><title>Remote React Comp</title><script data-helappend=\"0\" src=\"https://unpkg.com/react@18.3.1/umd/react.production.min.js\"></script><script data-helappend=\"0\" src=\"https://unpkg.com/react-dom@18.3.1/umd/react-dom.production.min.js\"></script><script data-helappend=\"0\" src=\"https://unpkg.com/dayjs@1.11.23/dayjs.min.js\"></script><script data-helappend=\"0\" src=\"https://unpkg.com/antd@6.7.0/dist/antd.min.js\"></script><script defer=\"defer\" src=\"/comps-react-antd/hel_dist/static/js/runtime.32226aaf.js\"></script><script defer=\"defer\" src=\"/comps-react-antd/hel_dist/static/js/vendor.e3dd5ba1.js\"></script><script defer=\"defer\" src=\"/comps-react-antd/hel_dist/static/js/main.edc40de5.js\"></script></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id=\"root\"></div></body></html>"
   }
 }
